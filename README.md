@@ -20,6 +20,12 @@ Framework, Library, Database, Tools, etc
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+## Fitur
+* Setor Tunai: Pengguna dapat memasukkan nominal uang untuk menambahkan saldo.
+* Tarik Tunai: Pengguna dapat mengambil uang dari saldo dengan memasukkan nominal yang diinginkan.
+* Cek Saldo: Pengguna dapat melihat saldo terkini setiap saat.
+* Keluar: Opsi untuk keluar dari program.
+
 ## Installation
 Langkah-langkah untuk menginstal dan menjalankan proyek secara lokal:
 ```bash
@@ -38,28 +44,8 @@ kemudian jalankan program
 
 
 ## User Guide 
-Petunjuk penggunaan proyek, dengan contoh penggunaan dan konfigurasi:
+kemudian jalankan program 
 
-Jalankan perintah ini pada terminal : 
-``` bash
-Python TorchMNIST-Classifier.py
-```
-
-## Struktur Folder
-```bash
-TorchMNIST-Classifier/
-│
-├── TorchMNIST-Classifier.py
-│
-└── data/
-    └── mnist/
-        └── raw/
-            ├── train-images-idx3-ubyte.gz
-            ├── train-labels-idx1-ubyte.gz
-            ├── t10k-images-idx3-ubyte.gz
-            └── t10k-labels-idx1-ubyte.gz
-
-```
 
 ## Highlight
 > None
