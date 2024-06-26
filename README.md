@@ -40,7 +40,6 @@ code .
 
 ```
 
-kemudian jalankan program 
 
 
 ## User Guide 
@@ -50,8 +49,7 @@ kemudian jalankan program
 ## Highlight
 > None
 
-## System Flow
-> None
+
 
 ## Issue
 
